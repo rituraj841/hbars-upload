@@ -1,0 +1,20 @@
+{
+  "name": "my-nodejs-api",
+  "version": "1.0.0",
+  "description": "simple api app",
+  "main": "app.js",
+  "scripts": {
+    "test": "hbars upload"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.6",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.8",
+    "mongoose": "*",
+    "multer": "*",
+    "path": "*"
+  },
+  "author": "rituraj",
+  "license": "ISC"
+}
